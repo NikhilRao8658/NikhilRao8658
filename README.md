@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikhilRao8658
 - 👀 I’m interested in web development, software engineering, and building interactive applications.
-- 🌱 I’m currently learning Full Stack Development, completed till HTML, CSS, JavaScript, React, and Bootstrap.
+- 🌱 I’m currently learning Full Stack Development, completed till HTML, CSS, JavaScript, React, Bootstrap and Tailwindcss.
 - 💞️ I’m looking to collaborate on web development projects, open-source contributions, and any innovative tech solutions.
 - 📫 How to reach me: You can contact me via LinkedIn "https://www.linkedin.com/in/nikhil8658/" or email me at "nrao8658@gmail.com".
 - 😄 Pronouns: He/Him
